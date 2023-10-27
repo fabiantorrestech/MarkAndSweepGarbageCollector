@@ -1,7 +1,7 @@
 #include "hw4.h"
 #include "mm.h"
 #include "memlib.h"
-#include <malloc.h>
+// #include <malloc.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
