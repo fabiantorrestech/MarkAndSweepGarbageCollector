@@ -3,6 +3,8 @@ Mark and Sweep Garbage Collector (C) - CS 361
 
 Live Demo: https://replit.com/@fabiantorrestec/MarkAndSweepGarbageCollector
 
+Example: <img width="555" alt="image" src="https://github.com/fabiantorrestech/MarkAndSweepGarbageCollector/assets/46858378/224ed203-4d2c-4647-a666-3a21e320de2b">
+
 Criteria: https://www.cs.uic.edu/~ckanich/cs361/f19/homework4.html
 
 This "Mark and Sweep" algorithm garbage collector will run a series of tests through this file to ensure that the garbage collection works correctly. The garbage collector operates by freeing memory from the heap.
